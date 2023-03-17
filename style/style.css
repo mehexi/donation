@@ -3,6 +3,7 @@
   margin-left: 0px;
   margin-right: 0px;
   margin-top: 0px;
+  max-width: auto;
 }
 header {
   padding: 176px 307px;
@@ -104,25 +105,61 @@ header {
   border-radius: 5px;
 }
 .donation-plan {
-    margin-left: 155px;
-    margin-right: 155px;
+  margin-left: 155px;
+  margin-right: 155px;
   margin-top: 130px;
   text-align: center;
 }
-.container img{
-    margin-bottom: 30px;
+.container img {
+  margin-bottom: 30px;
 }
-.news-container{
-    margin-left: 155px;
-    margin-right: 155px;
+.news-container {
+  margin-left: 155px;
+  margin-right: 155px;
   margin-top: 130px;
 }
-.table{
-    align-items: center;
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 100px;
-    gap: 69px;
-    
+.table {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 100px;
+  gap: 69px;
 }
+.get-my-up {
+  margin-top: 130px;
+  text-align: center;
+  
+}
+.get-my-up h1 {
+  font-style: normal;
+  font-weight: 700;
+}
+.get-my-up p {
+  font-weight: 400;
+  font-size: 18px;
+}
+.email-container{
+  margin: 60px 0px;
+}
+.email-container input {
+  background: #d9d9d9;
+  border: 0px;
+  border-radius: 5px;
 
+  font-size: 20px;
+  font-weight: 400;
+  color: white;
+
+  padding: 16px 20px;
+}
+footer {
+  margin-bottom: 0px;
+  margin-top: 130px;
+  background-color: black;
+  text-align: center;
+}
+footer h1 {
+  font-family: "Lobster", cursive;
+  color: #ff5959;
+  padding: 50px 0px;
+}
