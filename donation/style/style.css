@@ -1,0 +1,128 @@
+* {
+  font-family: "Inter", sans-serif;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+}
+header {
+  padding: 176px 307px;
+
+  text-align: center;
+  background-image: url(../style/resorse/images/donation9.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.primary-btn {
+  background-color: #ff5959;
+  border: 0px;
+  border-radius: 5px;
+
+  font-size: 20px;
+  font-weight: 400;
+  color: white;
+
+  padding: 16px 20px;
+}
+.secondry {
+  background-color: #fafafa;
+  border: 2px solid #ff5959;
+
+  border-radius: 5px;
+
+  font-size: 20px;
+  font-weight: 400;
+  color: #ff5959;
+
+  padding: 16px 20px;
+}
+
+.title h1 {
+  font-size: 65px;
+  font-weight: 700;
+  color: white;
+}
+.title p {
+  font-size: 18px;
+  font-weight: 400;
+  color: white;
+}
+
+.donation {
+  text-align: center;
+  padding-top: 130px;
+}
+.donation > h1 {
+  font-weight: 700;
+  font-size: 45px;
+}
+.donation p {
+  font-weight: 400;
+  font-size: 18px;
+}
+.secondry {
+  display: inline;
+  margin-top: 50px;
+  margin-right: 20px;
+}
+.custom-amount {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 60px;
+  text-align: center;
+  width: 765px;
+  padding: 10px;
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+}
+.custom-amount:focus {
+  outline: none;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+  padding: 50px 157px;
+}
+.card {
+  text-align: left;
+  background: rgba(79, 157, 166, 0.1);
+  padding: 60px 20px;
+  border-radius: 5px;
+}
+.card2 {
+  text-align: left;
+  background: rgba(255, 89, 89, 0.1);
+  padding: 60px 20px;
+  border-radius: 5px;
+}
+.card3 {
+  text-align: left;
+  background: #fff4d6;
+  padding: 60px 20px;
+  border-radius: 5px;
+}
+.donation-plan {
+    margin-left: 155px;
+    margin-right: 155px;
+  margin-top: 130px;
+  text-align: center;
+}
+.container img{
+    margin-bottom: 30px;
+}
+.news-container{
+    margin-left: 155px;
+    margin-right: 155px;
+  margin-top: 130px;
+}
+.table{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+    gap: 69px;
+    
+}
+
